@@ -23,7 +23,7 @@
 ##### Some technologies i use
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=pink)
 ![Symfony](https://img.shields.io/badge/-Symfony-222222?style=flat&logo=symfony&logoColor=3bb874)
 ![Sass](https://img.shields.io/badge/-Sass-%23222222?style=flat&logo=sass&logoColor=CC6699)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
