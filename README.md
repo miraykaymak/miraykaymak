@@ -3,10 +3,11 @@
 
 
  
-[![GitHub followers](https://img.shields.io/github/followers/yunus-emreee67.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/miraykaymak)
+[![GitHub followers](https://img.shields.io/github/followers/miraykaymak.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/miraykaymak)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hivda-miray-kaymak-6353121a3/)
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:miirayazz00@gmail.com)
 <hr/>
+
 
 ##### Kullandığım diller
 
