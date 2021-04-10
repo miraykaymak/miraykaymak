@@ -6,7 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/miraykaymak.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/miraykaymak)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hivda-miray-kaymak-6353121a3/)
 [![Gmail](https://img.shields.io/badge/-gmail-222222?style=flat&logo=gmail&logoColor=dark-blue)](mailto:miirayazz00@gmail.com)
-[![Twitter](https://img.shields.io/badge/-gmail-222222?style=flat&logo=gmail&logoColor=blue)](twitter.com/miirayazz0)
+
+
 <hr/>
 
 
