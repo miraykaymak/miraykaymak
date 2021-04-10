@@ -9,7 +9,7 @@
 <hr/>
 
 
-##### Kullandığım diller
+##### Languages i use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=html5)
@@ -18,7 +18,7 @@
 
 <hr/>
 
-##### Çalıştığım teknolojilerden bazıları
+##### Some technologies I use
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
