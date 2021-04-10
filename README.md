@@ -13,8 +13,8 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-Php-222222?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JAVASCRİPT-222222?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&logo=php)
 
 <hr/>
 
@@ -26,6 +26,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23222222?style=flat&logo=sass&logoColor=CC6699)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Phpstorm](http://img.shields.io/badge/-Phpstorm-222222?style=flat&logo=phpstorm-code&logoColor=007ACC)
 
 
 <hr/>
