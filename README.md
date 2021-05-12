@@ -38,6 +38,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=miraykaymak)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=miraykaymak&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=3bb874)
 
 
